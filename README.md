@@ -18,12 +18,12 @@ Made with :heart: by [Cyber-Duck Ltd](http://www.cyber-duck.co.uk)
 ## Installation
 Use composer to download the package:
 ```
-composer require cyber-duck/laravel-excel
+composer require patosmack/laravel-excel
 ```
 
-Register the service provider in `config/app.php` adding *Cyberduck\LaravelExcel\ExcelServiceProvider* to the provider array.
+Register the service provider in `config/app.php` adding *Patosmack\LaravelExcel\ExcelServiceProvider* to the provider array.
 
-Note. If you are on Laravel 4, use *Cyberduck\LaravelExcel\ExcelLegacyServiceProvider*
+Note. If you are on Laravel 4, use *Patosmack\LaravelExcel\ExcelLegacyServiceProvider*
 
 ## Export Excel
 
