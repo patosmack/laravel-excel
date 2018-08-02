@@ -1,4 +1,4 @@
-# Laravel Excel
+# Laravel Excel ( THIS PROJECT HAS BEEN DISCONTINUED )
 [![Latest Stable Version](https://poser.pugx.org/cyber-duck/laravel-excel/v/stable)](https://packagist.org/packages/cyber-duck/laravel-excel)
 [![Total Downloads](https://poser.pugx.org/cyber-duck/laravel-excel/downloads)](https://packagist.org/packages/cyber-duck/laravel-excel)
 [![License](https://poser.pugx.org/cyber-duck/laravel-excel/license)](https://raw.githubusercontent.com/Cyber-Duck/laravel-excel/master/LICENSE)
